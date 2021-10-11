@@ -1,5 +1,5 @@
 # Introduction to Statistical Learning
-## with Applications in actually R
+## with Applications in R
 
 Repo consisting of Jupyter Notebooks, thus written in Python, which follow the Chapters in the book.
 
